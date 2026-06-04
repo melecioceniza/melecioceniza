@@ -4,8 +4,8 @@
 Passionate about data-driven products, model deployment, and creating clean reusable code. A project of full stack development in-house applications. A diverse skill set in computer programing to design, build, test and maintain full-stack applications. Self-motivated to learn more programing languages and software design pattern.
 
 - 🔭 Currently working on Printing Tracking Label projects integration with [Bartender Seagull](https://www.bartendersoftware.com/)
-- 💡 Skilled in Python, TensorFlow, PyTorch, and AWS
-- 📫 Reach me at [email@example.com]
+- 💡 Skilled in C#, .Net Framework, Python, MS Sql Server, PostgreSQL, Azure DevOps.
+- 📫 Reach me at [melecio.ceniza@gmail.com]
 
 <!-- **melecioceniza/melecioceniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -
 Here are some ideas to get you started:
