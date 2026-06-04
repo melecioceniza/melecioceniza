@@ -1,5 +1,5 @@
 # Hi, I’m [Your Name] 👋
-Software Engineer at [Rangiora Bakery Ltd](https://rangiorabakery.com/);<br>
+##Software Engineer at [Rangiora Bakery Ltd](https://rangiorabakery.com/);<br>
 #### A Full-Stack Developer with 5+ years building C# and Python applications. 
 Passionate about data-driven products, model deployment, and creating clean reusable code. A project of full stack development in-house applications. A diverse skill set in computer programing to design, build, test and maintain full-stack applications. Self-motivated to learn more programing languages and software design pattern.
 
