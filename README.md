@@ -6,6 +6,7 @@ Passionate about data-driven products, model deployment, and creating clean reus
 - 🔭 Currently working on Printing Tracking Label projects integration with [Bartender Seagull](https://www.bartendersoftware.com/)
 - 💡 Skilled in C#, .Net Framework, Python, MS Sql Server, PostgreSQL, Azure DevOps.
 - 📫 Reach me at [melecio.ceniza@gmail.com]
+- 👯 LinkedIn Profile [https://www.linkedin.com/in/melecio/](https://www.linkedin.com/in/melecio/)
 
 <!-- **melecioceniza/melecioceniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -
 Here are some ideas to get you started:
