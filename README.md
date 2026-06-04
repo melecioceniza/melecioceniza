@@ -1,11 +1,13 @@
-## Hi there 👋
-
-#### A Full-Stack Developer
-
+# Hi, I’m [Your Name] 👋
 Software Engineer at [Rangiora Bakery Ltd](https://rangiorabakery.com/);<br>
+#### A Full-Stack Developer with 5+ years building machine learning and Python applications. 
+Passionate about data-driven products, model deployment, and creating clean reusable code.
 
-<!-- **melecioceniza/melecioceniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+- 🔭 Currently working on NLP and computer vision projects
+- 💡 Skilled in Python, TensorFlow, PyTorch, and AWS
+- 📫 Reach me at [email@example.com]
 
+<!-- **melecioceniza/melecioceniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+->
 
