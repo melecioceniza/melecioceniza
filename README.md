@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
 
-**melecioceniza/melecioceniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at [Rangiora Bakery Ltd](https://rangiorabakery.com/);<br>
+
+<!-- **melecioceniza/melecioceniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
