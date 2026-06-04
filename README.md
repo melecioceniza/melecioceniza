@@ -3,7 +3,7 @@
 #### A Full-Stack Developer with 5+ years building C# and Python applications. 
 Passionate about data-driven products, model deployment, and creating clean reusable code. A project of full stack development in-house applications. A diverse skill set in computer programing to design, build, test and maintain full-stack applications. Self-motivated to learn more programing languages and software design pattern.
 
-- 🔭 Currently working on Printing Tracking Label projects inegration with [Bartender Seagull](https://www.bartendersoftware.com/)
+- 🔭 Currently working on Printing Tracking Label projects integration with [Bartender Seagull](https://www.bartendersoftware.com/)
 - 💡 Skilled in Python, TensorFlow, PyTorch, and AWS
 - 📫 Reach me at [email@example.com]
 
