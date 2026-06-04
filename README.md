@@ -1,9 +1,9 @@
 # Hi, I’m [Your Name] 👋
 Software Engineer at [Rangiora Bakery Ltd](https://rangiorabakery.com/);<br>
-#### A Full-Stack Developer with 5+ years building machine learning and Python applications. 
-Passionate about data-driven products, model deployment, and creating clean reusable code.
+#### A Full-Stack Developer with 5+ years building C# and Python applications. 
+Passionate about data-driven products, model deployment, and creating clean reusable code. A project of full stack development in-house applications. A diverse skill set in computer programing to design, build, test and maintain full-stack applications. Self-motivated to learn more programing languages and software design pattern.
 
-- 🔭 Currently working on NLP and computer vision projects
+- 🔭 Currently working on Printing Tracking Label projects inegration with [Bartender Seagull](https://www.bartendersoftware.com/)
 - 💡 Skilled in Python, TensorFlow, PyTorch, and AWS
 - 📫 Reach me at [email@example.com]
 
