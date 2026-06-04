@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Full-Stack Developer
 
 Software Engineer at [Rangiora Bakery Ltd](https://rangiorabakery.com/);<br>
 
