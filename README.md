@@ -6,6 +6,7 @@ Passionate about data-driven products, model deployment, and creating clean reus
 - 🔭 Currently working on Printing Label Tracking projects integration with [Bartender Seagull](https://www.bartendersoftware.com/)
 - 💡 Skilled in C#, .Net Framework, Python, HTML, CSS, JavaScript, JQuery, MS Sql Server, PostgreSQL, Azure DevOps, Git SVN.
 - 🌱 I’m currently enroll for Master's Degree of Information Technology Taking Cyber Security, Data Science and Machine Learning...
+- 🌱 I’m currently learning React JS and Node.js
 - 📫 Reach me at [melecio.ceniza@gmail.com]
 - 👯 LinkedIn Profile [https://www.linkedin.com/in/melecio/](https://www.linkedin.com/in/melecio/)
 
