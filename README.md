@@ -4,7 +4,7 @@
 Passionate about data-driven products, model deployment, and creating clean reusable code. A project of full stack development in-house applications. A diverse skill set in computer programing to design, build, test and maintain full-stack applications. Self-motivated to learn more programing languages and software design pattern.
 
 - 🔭 Currently working on Printing Label Tracking projects integration with [Bartender Seagull](https://www.bartendersoftware.com/)
-- 💡 Skilled in C#, .Net Framework, Python, HTML, CSS, JavaScript, JQuery, MS Sql Server, PostgreSQL, Azure DevOps, Git SVN.
+- 💡 Skilled in C#, .Net Framework, Python, HTML, CSS, JavaScript, Typescript JQuery, MS Sql Server, PostgreSQL, Azure DevOps, Git SVN.
 - 🌱 I’m currently enroll for Master's Degree in Information Technology Taking Cyber Security, Data Science and Machine Learning...
 - 🌱 I’m currently learning React JS and Node.js
 - 📫 Reach me at [melecio.ceniza@gmail.com]
